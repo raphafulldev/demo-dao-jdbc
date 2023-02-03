@@ -17,6 +17,9 @@ Demo-dao-jdbc é um projeto para estudos de acesso ao banco de dados com JDBC de
 ## Modelo Conceitual
 ![Web 1](https://github.com/raphafulldev/demo-dao-jdbc/blob/main/WhatsApp%20Image%202023-02-03%20at%2019.02.55.jpeg)
 
+## Modelo de implementação das consultas
+![Web 1](https://github.com/raphafulldev/demo-dao-jdbc/blob/main/WhatsApp%20Image%202023-02-03%20at%2019.15.15.jpeg)
+
 # Tecnologias utilizadas
 ## Back end
 - Java
