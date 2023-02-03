@@ -1,9 +1,9 @@
-# Big Game Survey 
+# Demo DAO JDBC
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/raphafulldev/demo-dao-jdbc/blob/main/LICENSE) 
 
 # Sobre o projeto
 
-Demo-dao-jdbc é um projeto para estudos de acesso ao banco de dados com JDBCde consultas SQL (inserção, deleção etc), utilizando o MySQL Workbench e construída durante uma aula do professor Nélio Alves da DevSuperior.
+Demo-dao-jdbc é um projeto para estudos de acesso ao banco de dados com JDBC de consultas SQL (inserção, deleção etc), utilizando o MySQL WorkBench e construída durante uma aula do professor Nélio Alves da escola de programação DevSuperior.
 
 ## Objetivos do Projeto
 - Conhecer os principais recursos do JDBC na teoria e na prática
@@ -11,10 +11,10 @@ Demo-dao-jdbc é um projeto para estudos de acesso ao banco de dados com JDBCde 
 - Implementar o padrão DAO manualmente com JDBC
 
 
-## Layout mobi
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+## A injeção de dependência foi feita por meio do padrão de projeto Factory
+![Mobile 1](https://github.com/raphafulldev/demo-dao-jdbc/blob/main/WhatsApp%20Image%202023-02-03%20at%2018.55.52.jpeg)
 
-## Layout web
+## Modelo Conceitual
 ![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
 
 ![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
