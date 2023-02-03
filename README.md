@@ -24,7 +24,6 @@ Demo-dao-jdbc é um projeto para estudos de acesso ao banco de dados com JDBC de
 ## Back end
 - Java
 - MySQL
-# Como executar o projeto
 
 ## Back end
 Pré-requisitos: Java 11 ou superior
