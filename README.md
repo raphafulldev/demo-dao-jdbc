@@ -15,65 +15,27 @@ Demo-dao-jdbc é um projeto para estudos de acesso ao banco de dados com JDBC de
 ![Mobile 1](https://github.com/raphafulldev/demo-dao-jdbc/blob/main/WhatsApp%20Image%202023-02-03%20at%2018.55.52.jpeg)
 
 ## Modelo Conceitual
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
-
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
-
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+![Web 1](https://github.com/raphafulldev/demo-dao-jdbc/blob/main/WhatsApp%20Image%202023-02-03%20at%2019.02.55.jpeg)
 
 # Tecnologias utilizadas
 ## Back end
 - Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
-## Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
-## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
-
+- MySQL
 # Como executar o projeto
 
 ## Back end
-Pré-requisitos: Java 11
+Pré-requisitos: Java 11 ou superior
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/raphafulldev/demo-dao-jdbc
 
-# entrar na pasta do projeto back end
-cd backend
-
-# executar o projeto
-./mvnw spring-boot:run
 ```
 
-## Front end web
-Pré-requisitos: npm / yarn
 
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto front end web
-cd front-web
-
-# instalar dependências
-yarn install
-
-# executar o projeto
-yarn start
-```
 
 # Autor
 
-Wellington Mazoni de Andrade
+Raphael Barros Barreto
 
-https://www.linkedin.com/in/wmazoni
+https://www.linkedin.com/in/raphael-barros-376583264/
