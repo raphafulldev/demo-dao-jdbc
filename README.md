@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Demo-dao-jdbc é um projeto para estudos de acesso ao banco de dados com JDBC de consultas SQL (inserção, deleção etc), utilizando o MySQL WorkBench e construída durante uma aula do professor Nélio Alves da escola de programação DevSuperior.
+Demo-dao-jdbc é um projeto para estudo de acesso a banco de dados com JDBC de consultas SQL (inserção, deleção etc), utilizando o MySQL WorkBench e construída durante uma aula do professor Nélio Alves da escola de programação DevSuperior.
 
 ## Objetivos do Projeto
 - Conhecer os principais recursos do JDBC na teoria e na prática
