@@ -13,13 +13,13 @@ Demo-dao-jdbc é um projeto para estudo de acesso a banco de dados com JDBC de c
 
 
 ## A injeção de dependência foi feita por meio do padrão de projeto Factory
-![Mobile 1](https://github.com/raphafulldev/demo-dao-jdbc/blob/main/WhatsApp%20Image%202023-02-03%20at%2018.55.52.jpeg)
+![Mobile 1](https://github.com/raphafulldev/assets/blob/main/images/WhatsApp%20Image%202023-02-03%20at%2018.55.52.jpeg)
 
 ## Modelo Conceitual
-![Web 1](https://github.com/raphafulldev/demo-dao-jdbc/blob/main/WhatsApp%20Image%202023-02-03%20at%2019.02.55.jpeg)
+![Web 1](https://github.com/raphafulldev/assets/blob/main/images/WhatsApp%20Image%202023-02-03%20at%2019.02.55.jpeg)
 
 ## Modelo de implementação das consultas
-![Web 1](https://github.com/raphafulldev/demo-dao-jdbc/blob/main/WhatsApp%20Image%202023-02-03%20at%2019.15.15.jpeg)
+![Web 1](https://github.com/raphafulldev/assets/blob/main/images/WhatsApp%20Image%202023-02-03%20at%2019.15.15.jpeg)
 
 # Tecnologias utilizadas
 ## Back end
