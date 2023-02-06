@@ -41,3 +41,10 @@ git clone https://github.com/raphafulldev/demo-dao-jdbc
 Raphael Barros Barreto
 
 https://www.linkedin.com/in/raphael-barros-376583264/
+
+Agradecimentos:
+Professor: Nélio Alves.
+
+https://devsuperior.com.br/cursos
+
+https://www.linkedin.com/in/nelio-alves/?originalSubdomain=br
