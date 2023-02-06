@@ -9,6 +9,7 @@ Demo-dao-jdbc é um projeto para estudo de acesso a banco de dados com JDBC de c
 - Conhecer os principais recursos do JDBC na teoria e na prática
 - Elaborar a estrutura básica de um projeto com JDBC
 - Implementar o padrão DAO manualmente com JDBC
+- CRUD - Create, Retrieve, Update, Delete
 
 
 ## A injeção de dependência foi feita por meio do padrão de projeto Factory
